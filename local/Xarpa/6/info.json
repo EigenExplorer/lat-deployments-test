@@ -1,0 +1,96 @@
+{
+  "avsAddress": "0x1DE75EaAb2df55d467494A172652579E6FA4540E",
+  "chainId": 31337,
+  "contractDeployments": {
+    "implementation": {
+      "liquidToken": {
+        "address": "0xB0D4afd8879eD9F52b28595d31B441D079B2Ca07",
+        "block": 162,
+        "timestamp": 1742808531000
+      },
+      "liquidTokenManager": {
+        "address": "0x162A433068F51e18b7d13932F27e66a3f99E6890",
+        "block": 162,
+        "timestamp": 1742808531000
+      },
+      "stakerNode": {
+        "address": "0x5081a39b8A5f0E35a8D959395a630b68B74Dd30f",
+        "block": 162,
+        "timestamp": 1742808531000
+      },
+      "stakerNodeCoordinator": {
+        "address": "0x922D6956C99E12DFeB3224DEA977D0939758A1Fe",
+        "block": 162,
+        "timestamp": 1742808531000
+      },
+      "tokenRegistryOracle": {
+        "address": "0x1429859428C0aBc9C2C47C8Ee9FBaf82cFA0F20f",
+        "block": 162,
+        "timestamp": 1742808531000
+      }
+    },
+    "proxy": {
+      "liquidToken": {
+        "address": "0x4C4a2f8c81640e47606d3fd77B353E87Ba015584",
+        "block": 162,
+        "timestamp": 1742808531000
+      },
+      "liquidTokenManager": {
+        "address": "0xdbC43Ba45381e02825b14322cDdd15eC4B3164E6",
+        "block": 162,
+        "timestamp": 1742808531000
+      },
+      "stakerNodeCoordinator": {
+        "address": "0x04C89607413713Ec9775E14b954286519d836FEf",
+        "block": 162,
+        "timestamp": 1742808531000
+      },
+      "tokenRegistryOracle": {
+        "address": "0x1fA02b2d6A771842690194Cf62D91bdd92BfE28d",
+        "block": 162,
+        "timestamp": 1742808531000
+      }
+    }
+  },
+  "deploymentBlock": 162,
+  "deploymentTimestamp": 1742808531000,
+  "implementationAddress": "0xB0D4afd8879eD9F52b28595d31B441D079B2Ca07",
+  "initialization": {
+    "liquidTokenBlock": 162,
+    "liquidTokenManagerBlock": 162,
+    "liquidTokenManagerTimestamp": 1742808531000,
+    "liquidTokenTimestamp": 1742808531000,
+    "stakerNodeCoordinatorBlock": 162,
+    "stakerNodeCoordinatorTimestamp": 1742808531000,
+    "tokenRegistryOracleBlock": 162,
+    "tokenRegistryOracleTimestamp": 1742808531000
+  },
+  "maxNodes": 15,
+  "name": "ARPA Liquid Avs Token",
+  "proxyAddress": "0x4C4a2f8c81640e47606d3fd77B353E87Ba015584",
+  "roles": {
+    "admin": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+    "deployer": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+    "pauser": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8",
+    "priceUpdater": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+    "proxyAdmin": "0xcbEAF3BDe82155F56486Fb5a1072cb8baAf547cc",
+    "strategyController": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266"
+  },
+  "symbol": "xARPA",
+  "tokens": {
+    "0": {
+      "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+      "decimals": 18,
+      "pricePerUnit": 1000000000000000000,
+      "strategy": "0x93c4b944D05dfe6df7645A86cd2206016c51564D",
+      "volatilityThreshold": 700000000000000000
+    },
+    "1": {
+      "address": "0xae78736Cd615f374D3085123A210448E74Fc6393",
+      "decimals": 18,
+      "pricePerUnit": 1000000000000000000,
+      "strategy": "0x1BeE69b7dFFfA4E2d53C2a2Df135C388AD25dCD2",
+      "volatilityThreshold": 700000000000000000
+    }
+  }
+}
