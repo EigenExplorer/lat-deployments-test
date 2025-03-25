@@ -1,0 +1,68 @@
+{
+  "avsAddress": "0xD4A7E1Bd8015057293f0D0A557088c286942e84b",
+  "chainId": 17000,
+  "contractDeployments": {
+    "implementation": {
+      "liquidTokenManager": {
+        "address": "0x96749aBB4C20a7780F3CBCe0ebc9c81eD3B6F1c1",
+        "block": 3526738,
+        "timestamp": 1742840416000
+      },
+      "stakerNode": {
+        "address": "0x9297E63cdCC60C03C4b6Ed57d8B23B75612E4fEB",
+        "block": 3526738,
+        "timestamp": 1742840416000
+      },
+      "stakerNodeCoordinator": {
+        "address": "0xa83EfE531fe2cafE2Ec5Ea5e0DeE579A4182273f",
+        "block": 3526738,
+        "timestamp": 1742840416000
+      },
+      "tokenRegistryOracle": {
+        "address": "0x7689f349c90008326eC7a936AfEB06870513074D",
+        "block": 3526738,
+        "timestamp": 1742840416000
+      }
+    },
+    "proxy": {
+      "liquidTokenManager": {
+        "address": "0x117abB6e50549446505BB6c1C5113D000B4165BF",
+        "block": 3526738,
+        "timestamp": 1742840416000
+      },
+      "stakerNodeCoordinator": {
+        "address": "0xb82785D38d1bE5AeE1101D43B934b3821019D8dA",
+        "block": 3526738,
+        "timestamp": 1742840416000
+      },
+      "tokenRegistryOracle": {
+        "address": "0x8B7C3315Fb1066a037b673a896a2aeb0DE3d97D8",
+        "block": 3526738,
+        "timestamp": 1742840416000
+      }
+    }
+  },
+  "deploymentBlock": 3526738,
+  "deploymentTimestamp": 1742840416000,
+  "implementationAddress": "0x54DE0082fB56489d415fc9d902864898342D7995",
+  "maxNodes": 10,
+  "name": "EigenDA Liquid Avs Token",
+  "proxyAddress": "0x35a656A100D7B36186149d7930C2c4CFf25e2806",
+  "roles": {
+    "admin": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+    "deployer": "0x5404941Ae92b0877E11F28763304E3D72E45E286",
+    "pauser": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8",
+    "priceUpdater": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC"
+  },
+  "symbol": "xEIGEN",
+  "tokens": {
+    "0": {
+      "address": "0x3F1c547b21f65e10480dE3ad8E19fAAC46C95034",
+      "strategy": "0x7D704507b76571a51d9caE8AdDAbBFd0ba0e63d3"
+    },
+    "1": {
+      "address": "0x7322c24752f79c05FFD1E2a6FCB97020C1C264F1",
+      "strategy": "0x3A8fBdf9e77DFc25d09741f51d3E181b25d0c4E0"
+    }
+  }
+}
