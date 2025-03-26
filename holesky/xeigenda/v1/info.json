@@ -4,53 +4,53 @@
   "contractDeployments": {
     "implementation": {
       "liquidTokenManager": {
-        "address": "0x624Cd0268F89a9aeEFEB78E0E12CA920E2eb54BE",
-        "block": 3526674,
-        "timestamp": 1742832170000
+        "address": "0x9dBbc13bd6Ea07cae8902fDD14E4cb1f2012AB01",
+        "block": 3560482,
+        "timestamp": 1742981016000
       },
       "stakerNode": {
-        "address": "0x91291D58B18547B09D188329020F7b5266015301",
-        "block": 3526674,
-        "timestamp": 1742832170000
+        "address": "0x77f618B1155b53d28518EEa7A51A13312CE58153",
+        "block": 3560482,
+        "timestamp": 1742981016000
       },
       "stakerNodeCoordinator": {
-        "address": "0x1b3F7a8Fc991EA7Ef7575033Ac14211d29646ef0",
-        "block": 3526674,
-        "timestamp": 1742832170000
+        "address": "0x39eA0589139C1597A003d67b73b13006DfDB25A2",
+        "block": 3560482,
+        "timestamp": 1742981016000
       },
       "tokenRegistryOracle": {
-        "address": "0x8b636B6b0171A46e0b41A32F94a67281960eD578",
-        "block": 3526674,
-        "timestamp": 1742832170000
+        "address": "0x9Ec0E0F0F92F38DDB7d3E0249f988855B03146A4",
+        "block": 3560482,
+        "timestamp": 1742981016000
       }
     },
     "proxy": {
       "liquidTokenManager": {
-        "address": "0x23253aeaf82c7c1dFeAdb27F5a00fBFF7ceedB2C",
-        "block": 3526674,
-        "timestamp": 1742832170000
+        "address": "0x6C3f1399e141CfCcC62119416C1b1cFeb45aAf84",
+        "block": 3560482,
+        "timestamp": 1742981016000
       },
       "stakerNodeCoordinator": {
-        "address": "0xaeA463951544a510b4CcF5Fc796bC5aADcb35226",
-        "block": 3526674,
-        "timestamp": 1742832170000
+        "address": "0xccD484d5818D4ceDf2c602966bd1a853EeA1892c",
+        "block": 3560482,
+        "timestamp": 1742981016000
       },
       "tokenRegistryOracle": {
-        "address": "0xB810B95E8c35bCD60084320B991F63f4Ff6F6943",
-        "block": 3526674,
-        "timestamp": 1742832170000
+        "address": "0x15b7B0eAe8268c33df39723F4129eb10380308c5",
+        "block": 3560482,
+        "timestamp": 1742981016000
       }
     }
   },
-  "deploymentBlock": 3526674,
-  "deploymentTimestamp": 1742832170000,
-  "implementationAddress": "0xc16E0D2a7264f907f143e830838bEaf471d19D5E",
+  "deploymentBlock": 3560482,
+  "deploymentTimestamp": 1742981016000,
+  "implementationAddress": "0x06c3FECAc1ec74a5b4EfA033bcf50BAfc0B052D3",
   "maxNodes": 10,
   "name": "EigenDA Liquid Avs Token",
-  "proxyAddress": "0x167e6b908FaC6b9D478352d10E8C34CAc1877629",
+  "proxyAddress": "0xE3372cA5739E10d071e5c830E92753b5ee6f3daf",
   "roles": {
     "admin": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
-    "deployer": "0x259FeAA505983ED615D4c470a6148c93127a13d5",
+    "deployer": "0x3a212C2fA41f8bA2098cE0aA6De01E4eF1F79214",
     "pauser": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8",
     "priceUpdater": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC"
   },
